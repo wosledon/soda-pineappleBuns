@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A47B9546-B956-48F0-B7C4-BC8899580316}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6335529A-8803-4C33-A667-2CCA6C0780AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soda.PineappleBunsWin", "src\Soda.PineappleBunsWin\Soda.PineappleBunsWin.csproj", "{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89E5BBA6-4C73-4EED-9A49-E0DB394F25D3} = {A47B9546-B956-48F0-B7C4-BC8899580316}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2D844D-EBA6-4187-8102-74D19BC9B9CF}
+	EndGlobalSection
+EndGlobal
